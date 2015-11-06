@@ -1,5 +1,7 @@
 # Normalize for Ruby on Rails
 
+[![Gem Version](https://badge.fury.io/rb/normalize_rails.svg)](https://badge.fury.io/rb/normalize_rails)
+
 A ruby gem for [normalize css](https://necolas.github.io/normalize.css/).
 A modern, HTML5-ready alternative to CSS resets.
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
